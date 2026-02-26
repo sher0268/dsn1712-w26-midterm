@@ -23,6 +23,9 @@ a:hover {
     color: #9aa0a6;
     text-decoration: underline;
 }
+a:visited {
+    color: #c6a85b;
+}
 
 h1 { 
     font-family: 'Cormorant Garamond', serif;

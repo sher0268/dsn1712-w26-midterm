@@ -10,7 +10,7 @@ body {
     text-align: center;  
     margin-top: 40px;    
 }
-.nav a:link {
+a:link {
     font-size: 14px;
     color: #c6a85b;
     text-transform: uppercase;
@@ -58,7 +58,7 @@ p {
     margin-bottom: 20px;
 }
 
-blockquote {
+#blockquote {
     margin-top: 70px;
     margin-bottom: 70px;
 }
@@ -91,6 +91,7 @@ h1 + p{
 font-size: 20px;
 color: #9aa0a6;
 text-align: center;
+margin-bottom: 40px;
 }
 
 footer {
